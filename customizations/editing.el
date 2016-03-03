@@ -69,4 +69,4 @@
       (ns-get-selection-internal 'CLIPBOARD)
     (quit nil)))
 
-(setq electric-indent-mode +1))
+(setq electric-indent-mode +1)
