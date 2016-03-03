@@ -66,7 +66,10 @@
     tagedit
 
     ;; git integration
-    magit))
+    magit
+
+    ;; auto-completion
+    company))
 
 ;; On OS X, an Emacs instance started from the graphical user
 ;; interface will have a different environment than a shell in a
